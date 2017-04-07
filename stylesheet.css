@@ -5,8 +5,9 @@ div {
 #header {
   z-index: 1;
   position: fixed;
-  width: 95%
-  height: 70px;
+  height:70px;
+  width: 95%;
+  margin-top: 10px;
   background-color: #668284;
   margin-bottom: 10px;
 }
@@ -16,7 +17,7 @@ div {
   margin-left: 5px;
   padding-top: 5px;
   font-size: 25px;
-  font-family: verdana, san-sarif;
+  font-family: verdana, san-serif;
   color: #ffffff;
 }
 
