@@ -12,10 +12,10 @@ div {
 }
 
 #name {
-  float:left;
+  float:Center;
   margin-left: 5px;
   padding-top: 5px;
-  font-size: 16px;
+  font-size: 25px;
   font-family: verdana, san-sarif;
   color: #ffffff;
 }
