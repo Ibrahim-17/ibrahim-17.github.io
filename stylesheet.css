@@ -5,9 +5,9 @@ div {
 #header {
   z-index: 1;
   position: fixed;
-  height:70px;
+  height:60px;
   width: 95%;
-  margin-top: 10px;
+  margin-top: -20px;
   background-color: #668284;
   margin-bottom: 10px;
 }
